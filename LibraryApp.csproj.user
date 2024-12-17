@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormBookEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBookMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBookSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRentalConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormReturnConfirmation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUserMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUserEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmToDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LibrarianDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RentalsTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
